@@ -31,3 +31,6 @@ O programa controla a flange de um servomotor ou a potência de um LED através 
    - Conecte sua placa ao computador com ela no modo **Bootsel**.
    - Monte a unidade **RPI-RP2** no computador.
    - Copie o arquivo compilado `.uf2` para a unidade montada ou aperte em Run na interface do VSCode caso tenha configurado a placa com o Zadig.
+  
+## Vídeo de demonstração:
+https://youtu.be/BjX6eHjX0N8
